@@ -4,3 +4,6 @@
 
 # Пример деплоя и тестов
 
+![image](https://user-images.githubusercontent.com/43700151/227236532-71dd9e27-8922-44e1-84f4-c69cc1e72f4d.png)
+![image](https://user-images.githubusercontent.com/43700151/227236620-c683500f-702d-467d-aee8-8ce90dfc7ad8.png)
+![image](https://user-images.githubusercontent.com/43700151/227236652-688430d0-52ca-4b42-8593-066fe7b426e9.png)
